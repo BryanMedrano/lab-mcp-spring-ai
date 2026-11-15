@@ -46,7 +46,7 @@ Servidor **Model Context Protocol (MCP)** desarrollado en **Java 21** con **Spri
 
 1. **Clonar el repositorio:**
    ```powershell
-   git clone [https://github.com/BryanMedrano/demomcp.git](https://github.com/BryanMedrano/demomcp.git)
+   git clone https://github.com/BryanMedrano/demomcp.git
    cd demomcp
    ```
 
